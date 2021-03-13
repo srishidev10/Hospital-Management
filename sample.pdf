@@ -1,0 +1,152 @@
+%PDF-1.2
+4 0 obj
+<<
+/Length 5 0 R
+>>
+stream
+ BT /F1 40 Tf 195.08 426 Td (PDF::Create) Tj ET
+ BT /F1 20 Tf 251.65 396 Td (version 1.35) Tj ET
+ BT /F1 20 Tf 127.77 300 Td (by John Doe <john.doe@example.com>) Tj ET
+endstream
+endobj
+
+5 0 obj
+168
+endobj
+
+7 0 obj
+<<
+/Length 8 0 R
+>>
+stream
+0 0 m 592 840 l S
+0 840 m 592 0 l S
+endstream
+endobj
+
+8 0 obj
+36
+endobj
+
+3 0 obj
+<<
+/First 9 0 R
+/Count 1
+/Parent 10 0 R
+/Title (Title Page)
+/Dest [2 0 R /Fit null null null]
+/Last 9 0 R
+>>
+endobj
+
+9 0 obj
+<<
+/Title (Second Page)
+/Parent 3 0 R
+/Dest [6 0 R /Fit null null null]
+>>
+endobj
+
+10 0 obj
+<<
+/First 3 0 R
+/Last 9 0 R
+/Count 2
+/Type /Outlines
+>>
+endobj
+
+11 0 obj
+<<
+/Outlines 10 0 R
+/Type /Catalog
+/Pages 12 0 R
+>>
+endobj
+
+12 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [1 0 R]
+>>
+endobj
+
+13 0 obj
+<<
+/Encoding /WinAnsiEncoding
+/Name /F1
+/BaseFont /Helvetica
+/Type /Font
+/Subtype /Type1
+>>
+endobj
+
+1 0 obj
+<<
+/Kids [2 0 R 6 0 R]
+/MediaBox [0 0 595 842]
+/Parent 12 0 R
+/Type /Pages
+/Count 2
+>>
+endobj
+
+2 0 obj
+<<
+/Contents [4 0 R]
+/Resources <<
+/ProcSet [/PDF /Text]
+/Font <<
+/F1 13 0 R
+>>
+>>
+/Type /Page
+/Parent 1 0 R
+>>
+endobj
+
+6 0 obj
+<<
+/Contents [7 0 R]
+/Type /Page
+/Parent 1 0 R
+>>
+endobj
+
+14 0 obj
+<<
+/Producer (PDF::Create version 1.35)
+/CreationDate (D:20161026091234)
+/Author (John Doe)
+/Title (Sample PDF)
+/Type /Info
+>>
+endobj
+
+xref
+0 15
+0000000000 65535 f 
+0000000884 00000 n 
+0000000987 00000 n 
+0000000358 00000 n 
+0000000009 00000 n 
+0000000230 00000 n 
+0000001115 00000 n 
+0000000250 00000 n 
+0000000339 00000 n 
+0000000483 00000 n 
+0000000574 00000 n 
+0000000647 00000 n 
+0000000716 00000 n 
+0000000775 00000 n 
+0000001181 00000 n 
+trailer
+<<
+/Size 15
+/Root 11 0 R
+/Info 14 0 R
+>>
+startxref
+1325
+%%EOF

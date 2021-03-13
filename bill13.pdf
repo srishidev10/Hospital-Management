@@ -1,0 +1,133 @@
+%PDF-1.2
+4 0 obj
+<<
+/Length 5 0 R
+>>
+stream
+ BT /F1 30 Tf 27.77 700 Td (PATIENT INFORMATION) Tj ET
+ BT /F1 20 Tf 33.36 650 Td (PID) Tj ET
+ BT /F1 20 Tf 121.15 650 Td (NAME) Tj ET
+ BT /F1 20 Tf 197.3 650 Td (GUARDIAN) Tj ET
+ BT /F1 20 Tf 307.28 650 Td (GENDER) Tj ET
+ BT /F1 20 Tf 428.91 650 Td (AGE) Tj ET
+ BT /F1 20 Tf 44.45 600 Td (2) Tj ET
+ BT /F1 20 Tf 117.27 600 Td (Swathy) Tj ET
+ BT /F1 20 Tf 223.94 600 Td (Preeti) Tj ET
+ BT /F1 20 Tf 338.9 600 Td (20) Tj ET
+ BT /F1 20 Tf 443.9 600 Td (F) Tj ET
+ BT /F1 20 Tf 44.45 550 Td (3) Tj ET
+ BT /F1 20 Tf 128.92 550 Td (Sree) Tj ET
+ BT /F1 20 Tf 209.49 550 Td (Ganesan) Tj ET
+ BT /F1 20 Tf 338.9 550 Td (25) Tj ET
+ BT /F1 20 Tf 443.9 550 Td (F) Tj ET
+ BT /F1 20 Tf 44.45 500 Td (4) Tj ET
+ BT /F1 20 Tf 118.93 500 Td (Beulah) Tj ET
+ BT /F1 20 Tf 224.48 500 Td (Alagu) Tj ET
+ BT /F1 20 Tf 338.9 500 Td (20) Tj ET
+ BT /F1 20 Tf 443.9 500 Td (F) Tj ET
+endstream
+endobj
+
+5 0 obj
+854
+endobj
+
+3 0 obj
+<<
+/Parent 6 0 R
+/Dest [2 0 R /Fit null null null]
+/Title (Title Page)
+>>
+endobj
+
+6 0 obj
+<<
+/First 3 0 R
+/Last 3 0 R
+/Type /Outlines
+/Count 1
+>>
+endobj
+
+7 0 obj
+<<
+/Type /Catalog
+/Outlines 6 0 R
+/Pages 8 0 R
+>>
+endobj
+
+8 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [1 0 R]
+>>
+endobj
+
+9 0 obj
+<<
+/BaseFont /Helvetica
+/Name /F1
+/Type /Font
+/Encoding /WinAnsiEncoding
+/Subtype /Type1
+>>
+endobj
+
+1 0 obj
+<<
+/Count 1
+/Kids [2 0 R]
+/Parent 8 0 R
+/Type /Pages
+/MediaBox [0 0 595 842]
+>>
+endobj
+
+2 0 obj
+<<
+/Parent 1 0 R
+/Type /Page
+/Resources <<
+/Font <<
+/F1 9 0 R
+>>
+/ProcSet [/PDF /Text]
+>>
+/Contents [4 0 R]
+>>
+endobj
+
+10 0 obj
+<<
+/Type /Info
+/Author (Madhu,Beulah)
+/Producer (PDF::Create version 1.35)
+/Title (BILL)
+/CreationDate (D:20161026084117)
+>>
+endobj
+
+xref
+0 11
+0000000000 65535 f 
+0000001330 00000 n 
+0000001426 00000 n 
+0000000936 00000 n 
+0000000009 00000 n 
+0000000916 00000 n 
+0000001026 00000 n 
+0000001098 00000 n 
+0000001164 00000 n 
+0000001222 00000 n 
+0000001553 00000 n 
+trailer
+<<
+/Size 11
+/Root 7 0 R
+/Info 10 0 R
+>>
+startxref
+1695
+%%EOF

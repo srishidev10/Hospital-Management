@@ -1,0 +1,127 @@
+%PDF-1.2
+4 0 obj
+<<
+/Length 5 0 R
+>>
+stream
+ BT /F1 30 Tf 60.215 700 Td (BILL INFORMATION) Tj ET
+ BT /F1 10 Tf 83.36 650 Td (BILL ID) Tj ET
+ BT /F1 10 Tf 83.915 550 Td (PAT ID) Tj ET
+ BT /F1 10 Tf 74.205 450 Td (ADM DATE) Tj ET
+ BT /F1 10 Tf 74.48 350 Td (CONS FEE) Tj ET
+ BT /F1 10 Tf 73.37 250 Td (ROOM FEE) Tj ET
+ BT /F1 10 Tf 67.275 150 Td (ROOM-M-FEE) Tj ET
+ BT /F1 10 Tf 72.815 50 Td (TOTAL FEE) Tj ET
+ BT /F1 10 Tf 197.225 600 Td (3) Tj ET
+ BT /F1 10 Tf 197.225 600 Td (4) Tj ET
+ BT /F1 10 Tf 135.64 600 Td (2016-10-25 14:20:25.000000) Tj ET
+ BT /F1 10 Tf 191.675 600 Td (200) Tj ET
+ BT /F1 10 Tf 197.225 600 Td (0) Tj ET
+ BT /F1 10 Tf 197.225 600 Td (0) Tj ET
+ BT /F1 10 Tf 191.675 600 Td (200) Tj ET
+endstream
+endobj
+
+5 0 obj
+665
+endobj
+
+3 0 obj
+<<
+/Parent 6 0 R
+/Dest [2 0 R /Fit null null null]
+/Title (Title Page)
+>>
+endobj
+
+6 0 obj
+<<
+/Type /Outlines
+/Last 3 0 R
+/First 3 0 R
+/Count 1
+>>
+endobj
+
+7 0 obj
+<<
+/Type /Catalog
+/Outlines 6 0 R
+/Pages 8 0 R
+>>
+endobj
+
+8 0 obj
+<<
+/Kids [1 0 R]
+/Type /Pages
+/Count 1
+>>
+endobj
+
+9 0 obj
+<<
+/Encoding /WinAnsiEncoding
+/BaseFont /Helvetica
+/Subtype /Type1
+/Name /F1
+/Type /Font
+>>
+endobj
+
+1 0 obj
+<<
+/Count 1
+/Kids [2 0 R]
+/Type /Pages
+/MediaBox [0 0 595 842]
+/Parent 8 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Contents [4 0 R]
+/Parent 1 0 R
+/Type /Page
+/Resources <<
+/Font <<
+/F1 9 0 R
+>>
+/ProcSet [/PDF /Text]
+>>
+>>
+endobj
+
+10 0 obj
+<<
+/CreationDate (D:20161026091250)
+/Title (BILL)
+/Author (Madhu,Beulah)
+/Type /Info
+/Producer (PDF::Create version 1.35)
+>>
+endobj
+
+xref
+0 11
+0000000000 65535 f 
+0000001141 00000 n 
+0000001237 00000 n 
+0000000747 00000 n 
+0000000009 00000 n 
+0000000727 00000 n 
+0000000837 00000 n 
+0000000909 00000 n 
+0000000975 00000 n 
+0000001033 00000 n 
+0000001364 00000 n 
+trailer
+<<
+/Size 11
+/Root 7 0 R
+/Info 10 0 R
+>>
+startxref
+1506
+%%EOF
